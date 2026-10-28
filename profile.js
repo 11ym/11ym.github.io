@@ -4,7 +4,7 @@ window.PROFILE = {
   "chineseName": "孟一鸣",
   "role": "Research Intern, KAI & HKU MMLab",
   "intro": "I am a research intern at KAI & HKU MMLab, mentored by Prof. Ping Luo. My research focuses on embodied AI, vision-language-action models, bimanual dexterous manipulation, and robot self-improvement.",
-  "about": "Previously, I worked with Dr. Yao Mu at ScaleLab, Shanghai Jiao Tong University, and Prof. Xianyuan Zhan at AIR, Tsinghua University. I received my B.Eng. in Robotics Engineering from Northeastern University, China, in 2026.",
+  "about": "Previously, I worked with Prof. Yao Mu at ScaleLab, Shanghai Jiao Tong University, and Prof. Xianyuan Zhan at AIR, Tsinghua University. I received my B.Eng. in Robotics Engineering from Northeastern University, China, in 2026.",
   "portrait": "assets/portrait.jpg",
   "email": "yimingmeng099@gmail.com",
   "github": "https://github.com/11ym",
