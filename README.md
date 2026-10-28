@@ -1,2 +1,3 @@
-# 11ym.github.io
-Yiming Meng — Academic Homepage
+# Yiming Meng — Academic Homepage
+
+Static personal website for GitHub Pages.
