@@ -9,7 +9,7 @@ window.PROFILE = {
   "email": "yimingmeng099@gmail.com",
   "github": "https://github.com/11ym",
   "scholar": "",
-  "cv": "assets/Yiming_Meng_CV.pdf?v=a321ad334274",
+  "cv": "assets/Yiming_Meng_CV.pdf?v=967357cfd518",
   "interests": [
     "Embodied AI",
     "Vision-Language-Action Models",
